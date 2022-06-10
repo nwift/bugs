@@ -6,7 +6,7 @@ Report bugs related to Nwift in a few clicks!
 
 - ## STEP 1
 
-> Create a new issue from [the issues tab](/issues)
+> Create a new issue from [the issues tab](https://github.com/nwift/bugs/issues)
 
 - ## STEP 2
 
